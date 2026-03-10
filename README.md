@@ -9,7 +9,7 @@
 
 ```bash
 # 1. Clone or copy the tool to the target machine
-git clone https://github.com/YOUR_USERNAME/privesc.git
+git clone https://github.com/YOUR_USERNAME/LucuiecPrivEsc.git
 cd privesc
 
 # 2. Install the only dependency
